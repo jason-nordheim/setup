@@ -1,0 +1,301 @@
+{
+    "adns": {
+        "description": "C/C++ resolver library and DNS resolver utilities"
+    },
+    "krb5": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "ncurses": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "python@3.8": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "autoconf": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libassuan": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "nettle": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "readline": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "automake": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libevent": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "node": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "sqlite": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "blueutil": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libffi": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "npth": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "tree": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "coreutils": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libgcrypt": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "openjdk": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "unbound": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gdbm": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libgpg-error": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "openssl@1.1": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "xz": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gettext": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libidn2": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "p11-kit": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "zlib": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gh": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libksba": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "pcre": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "zsh": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "git": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libtasn1": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "pcre2": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "zsh-completions": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gmp": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libtool": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "pinentry": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "zsh-syntax-highlighting": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gnupg": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libunistring": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "pkg-config": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "gnutls": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libusb": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "postgresql": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "icu4c": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "libyaml": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "puma-dev": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "app-cleaner": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "font-iosevka": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "insomnia ": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "postman": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "atom": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "font-mononoki": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "iterm2": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "staruml": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "font-cascadia-mono": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "font-source-code-pro": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "oracle-jdk": {
+        "description": null,
+        "github": null,
+        "formulae": null
+    },
+    "zoom": {}
+}
